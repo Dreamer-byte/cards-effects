@@ -5,7 +5,7 @@ Aquí una lista de lo que puedes encontrar:
 
  - Cards Effects Hover
         Resultado:
-        ![resultado esperado](assets/result.png){width=30%}
+        ![resultado esperado](assets/result.png)
 
 Te agradecería que dejes tu estrella si es que te fue de ayuda.
 
